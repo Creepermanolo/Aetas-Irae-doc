@@ -1,0 +1,8 @@
+# Normalise les fins de ligne pour éviter les faux conflits entre PC
+* text=auto
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary

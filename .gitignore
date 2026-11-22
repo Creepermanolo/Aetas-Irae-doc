@@ -1,0 +1,13 @@
+# Réglages personnels d'Obsidian (onglets ouverts, mise en page) : chacun garde les siens
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+
+# Corbeille locale d'Obsidian
+.trash/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
